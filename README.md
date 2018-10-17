@@ -29,4 +29,11 @@ To build an arduino uno microcontroller enabled 3 x 3 LED display cube that resp
 Gives a visual representation of stress/heart rate, in the form of a flashing led light cube 
 
 -- why --
-To be a metaphor for the stress experienced during school life and 
+To be a metaphor for the stress experienced during school life and displaying in a somewhat attractive and mesmerising fashion, reminding me that good things can come out of stress, this project also puts into use some parts I have learnt in my course and allows me to test my skills in design, fabrication as well as coding
+
+-- timeline --
+week 9: obtaining of parts, creating of base using corrugated board
+week 10: forming and soldering of cube/start coding
+week 11: coding/implementing other components on breadboard
+week 12: coding
+week 13: ready
