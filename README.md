@@ -37,3 +37,6 @@ week 10: forming and soldering of cube/start coding
 week 11: coding/implementing other components on breadboard
 week 12: coding
 week 13: ready
+
+-----------------------------------------------------------Documentation:---------------------------------------------------------------
+go to wordpress
