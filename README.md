@@ -39,4 +39,4 @@ week 12: coding
 week 13: ready
 
 -----------------------------------------------------------Documentation:---------------------------------------------------------------
-go to wordpress
+go to https://wordpress.com/post/charshaobun.wordpress.com/18
